@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\bin\Debug\net9.0\IfStatment.exe
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\bin\Debug\net9.0\IfStatment.deps.json
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\bin\Debug\net9.0\IfStatment.runtimeconfig.json
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\bin\Debug\net9.0\IfStatment.dll
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\bin\Debug\net9.0\IfStatment.pdb
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\IfStatment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\IfStatment.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\IfStatment.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\IfStatment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\IfStatment.sourcelink.json
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\IfStatment.dll
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\refint\IfStatment.dll
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\IfStatment.pdb
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\IfStatment.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MicrosoftC#\CsharpProjects\IfStatment\obj\Debug\net9.0\ref\IfStatment.dll
